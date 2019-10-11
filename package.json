@@ -1,20 +1,20 @@
 {
-  "name": "espresso-2018",
+  "name": "espresso-2019",
   "version": "1.0.0",
-  "description": "Espresso 2018",
+  "description": "Espresso 2019",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UCSDTESC/Espresso-2018.git"
+    "url": "git+https://github.com/SDHacks/espresso-2019.git"
   },
   "author": "Triton Engineering Student Council Techinal Team",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UCSDTESC/Espresso-2018/issues"
+    "url": "https://github.com/SDHacks/espresso-2019/issues"
   },
   "scripts": {
     "start": "gulp"
   },
-  "homepage": "https://github.com/UCSDTESC/Espresso-2018#readme",
+  "homepage": "https://github.com/SDHacks/espresso-2019/#readme",
   "devDependencies": {
     "bootstrap": "^4.0.0-beta.2",
     "browser-sync": "^2.18.13",
